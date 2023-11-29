@@ -1,2 +1,2 @@
-# Tetris em JS, HTML e CSS
- 
+# Tetris
+ Exemplar de página interativa criada em JavaScript.
